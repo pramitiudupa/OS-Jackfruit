@@ -5,7 +5,7 @@
 | Name | SRN |
 |------|-----|
 | Kari Bhavitha | PES1UG25CS821 |
-|  | PES1UG24CS331 |
+|Pramiti Ududpa  | PES1UG24CS331 |
 
 ---
 
